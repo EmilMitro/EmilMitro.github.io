@@ -1,6 +1,6 @@
 body { 
     background-color: #000000;
-    }
+}
 
 .wellcome { 
     color: #0aeaf2;
@@ -8,11 +8,33 @@ body {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     padding: auto;
-    }
-.links { 
-    color: #0aeaf2;
-    font-size: 1.5vw;
-    font-family: 'Roboto', sans-serif;
+}
+.links {
+    text-align: center;
+    background-color: rgb(4, 0, 83);
+    bottom: 6%;
+    position: fixed;
+    width: 100%;
+}
+.link1 {
+    background-color: #05001f;
+    font-size: 1vw;
+}
+.link2 { 
+    background-color: #05001f;
+    font-size: 1vw;
+}
+.link3 { 
+    background-color: #05001f;
+    font-size: 1vw;
+}
+footer {
+    background-color: #00011c;
+    color: #ffffff;
+    font-size: 1vw;
     text-align: center;
     padding: auto;
-    }
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
