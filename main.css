@@ -1,5 +1,5 @@
 body { 
-    background-color: #000000;
+    background-color: #1a2238;
 }
 
 .wellcome { 
@@ -11,30 +11,43 @@ body {
 }
 .links {
     text-align: center;
-    background-color: rgb(4, 0, 83);
+    background-color: #1a2238;
     bottom: 6%;
     position: fixed;
     width: 100%;
 }
 .link1 {
-    background-color: #05001f;
+    background-color: #9daaf2;
     font-size: 1vw;
 }
 .link2 { 
-    background-color: #05001f;
+    background-color: #9daaf2;
     font-size: 1vw;
 }
 .link3 { 
-    background-color: #05001f;
+    background-color: #9daaf2;
     font-size: 1vw;
 }
 footer {
-    background-color: #00011c;
-    color: #ffffff;
+    background-color: #f4db7d;
+    color: black;
     font-size: 1vw;
     text-align: center;
     padding: auto;
     bottom: 0;
+    right: 0;
     position: fixed;
     width: 100%;
+}
+.clock{
+    font-family: "Arial", Helvetica, sans-serif;
+    padding: 30px;
+    color: #fff;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 150px;
+    white-space: nowrap;
 }
