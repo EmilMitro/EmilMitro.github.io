@@ -3,7 +3,7 @@ body {
 }
 
 .welcome  { 
-    color: #0aeaf2;
+    color: #fff;
     font-size: 1.5vw;
     font-family: 'Roboto', sans-serif;
     text-align: center;
@@ -17,21 +17,21 @@ body {
     width: 100%;
 }
 .link1 {
-    background-color: #9daaf2;
+    background-color: #1a2238;
     font-size: 1vw;
 }
 .link2 { 
-    background-color: #9daaf2;
+    background-color: #1a2238;
     font-size: 1vw;
 }
 .link3 { 
-    background-color: #9daaf2;
+    background-color: #1a2238;
     font-size: 1vw;
 }
 footer {
-    background-color: #f4db7d;
-    color: black;
-    font-size: 1vw;
+    background-color: #1a2238;
+    color: #fff;
+    font-size: 0.9vw;
     text-align: center;
     padding: auto;
     bottom: 0;
@@ -50,3 +50,11 @@ footer {
     font-size: 150px;
     white-space: nowrap;
 }
+.insta {
+    color: #fff;
+    font-size: 1.5vw;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: auto;
+}
+

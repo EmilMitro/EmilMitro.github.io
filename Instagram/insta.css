@@ -1,0 +1,28 @@
+body { 
+    background-color: #1a2238;
+}
+footer {
+    background-color: #1a2238;
+    color: #fff;
+    font-size: 0.9vw;
+    text-align: center;
+    padding: auto;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    width: 100%;
+}
+.insta {
+    color: #fff;
+    font-size: 1.5vw;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: auto;
+}
+.home {
+    color: #fff;
+    font-size: 1.5vw;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: auto;
+}
