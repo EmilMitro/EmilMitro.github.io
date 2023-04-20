@@ -22,3 +22,4 @@ function displayTime(){
 setInterval(displayTime, 10);
 
 document.getElementsByClassName("referral")[0].style.display = "none"
+document.getElementsByClassName("feed-item juicer image-post juicer-about")[0].style.display = "none"
