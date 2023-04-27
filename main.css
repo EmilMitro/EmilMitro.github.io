@@ -18,15 +18,36 @@ body {
 }
 .link1 {
     background-color: #1a2238;
-    font-size: 1vw;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
 }
 .link2 { 
     background-color: #1a2238;
-    font-size: 1vw;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
 }
 .link3 { 
     background-color: #1a2238;
-    font-size: 1vw;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
 }
 footer {
     background-color: #1a2238;
@@ -52,8 +73,14 @@ footer {
 }
 .insta {
     color: #fff;
-    font-size: 1.5vw;
-    font-family: 'Roboto', sans-serif;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
     text-align: center;
     padding: auto;
 }

@@ -15,14 +15,20 @@ footer {
 .insta {
     color: #fff;
     font-size: 1.5vw;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Georgia';
     text-align: center;
     padding: auto;
 }
 .home {
     color: #fff;
-    font-size: 1.5vw;
-    font-family: 'Roboto', sans-serif;
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
     text-align: center;
     padding: auto;
 }
